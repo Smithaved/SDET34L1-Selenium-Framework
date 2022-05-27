@@ -19,11 +19,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * This class is used to perform the common actions for all the test cases
  * @author USER
-<<<<<<< HEAD
- *This is base class
-=======
  *This is base class to handle TestNg
->>>>>>> branch 'master' of https://github.com/Smithaved/SDET34L1-Selenium-Framework.git
+
  */
 public class BaseClass{
 	public static WebDriver staticdriver;

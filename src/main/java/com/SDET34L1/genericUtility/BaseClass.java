@@ -19,11 +19,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 /**
  * This class is used to perform the common actions for all the test cases
  * @author USER
-
- *This is base class to handle TestNg
-
  *This is base class
-
  */
 public class BaseClass{
 	public static WebDriver staticdriver;

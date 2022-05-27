@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[TYSS_629 created]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-26T17:35:05 IST" name="Failed suite [Suite]" finished-at="2022-05-26T17:35:41 IST" duration-ms="35621">
+    <groups>
+      <group name="sanity">
+        <method signature="CreateOrganizationTest.createOrganizationTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationTest@2d593b56]" name="createOrganizationTest" class="com.vtiger.organizationTest.CreateOrganizationTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2022-05-26T17:35:05 IST" name="Test(failed)" finished-at="2022-05-26T17:35:41 IST" duration-ms="35621">
+      <class name="com.vtiger.organizationTest.CreateOrganizationTest">
+        <test-method is-config="true" signature="beforesuitTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationTest@2d593b56]" started-at="2022-05-26T17:35:01 IST" name="beforesuitTest" finished-at="2022-05-26T17:35:05 IST" duration-ms="4690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuitTest -->
+        <test-method is-config="true" signature="beforeclassTest(java.lang.String)[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationTest@2d593b56]" started-at="2022-05-26T17:35:05 IST" name="beforeclassTest" finished-at="2022-05-26T17:35:14 IST" duration-ms="9093" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclassTest -->
+        <test-method is-config="true" signature="beforemethodTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationTest@2d593b56]" started-at="2022-05-26T17:35:15 IST" name="beforemethodTest" finished-at="2022-05-26T17:35:19 IST" duration-ms="4616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethodTest -->
+        <test-method signature="createOrganizationTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationTest@2d593b56]" started-at="2022-05-26T17:35:21 IST" name="createOrganizationTest" finished-at="2022-05-26T17:35:37 IST" duration-ms="16486" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[TYSS_629 created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganizationTest -->
+        <test-method is-config="true" signature="aftermethodTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationTest@2d593b56]" started-at="2022-05-26T17:35:37 IST" name="aftermethodTest" finished-at="2022-05-26T17:35:40 IST" duration-ms="2724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethodTest -->
+        <test-method is-config="true" signature="afterclassTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationTest@2d593b56]" started-at="2022-05-26T17:35:40 IST" name="afterclassTest" finished-at="2022-05-26T17:35:41 IST" duration-ms="933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclassTest -->
+        <test-method is-config="true" signature="aftersuiteTest()[pri:0, instance:com.vtiger.organizationTest.CreateOrganizationTest@2d593b56]" started-at="2022-05-26T17:35:41 IST" name="aftersuiteTest" finished-at="2022-05-26T17:35:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuiteTest -->
+      </class> <!-- com.vtiger.organizationTest.CreateOrganizationTest -->
+    </test> <!-- Test(failed) -->
+  </suite> <!-- Failed suite [Suite] -->
+</testng-results>

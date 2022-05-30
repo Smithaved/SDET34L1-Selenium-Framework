@@ -9,7 +9,6 @@
   <test thread-count="5" name="Test" preserve-order="false">
     <classes>
       <class name="com.vtiger.contactTest.CreateContactAWOrganizationTest"/>
-      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

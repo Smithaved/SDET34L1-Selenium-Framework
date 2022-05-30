@@ -9,13 +9,7 @@
   <test thread-count="5" name="Test" preserve-order="false">
     <classes>
       <class name="com.vtiger.contactTest.CreateContactAWOrganizationTest"/>
-      <class name="com.vtiger.contactTest.CreateContactTest"/>
-      <class name="com.vtiger.documentsTest.CreateDocumentTest"/>
-      <class name="com.vtiger.productsTest.CreateProductlTest"/>
-      <class name="com.vtiger.campaignsTest.CreateCampaignsAWProductNameTest"/>
-      <class name="com.vtiger.organizationTest.CreateOrganizationWithIndustryAndTypeTest"/>
-      <class name="com.vtiger.organizationTest.CreateOrganizationTest"/>
-      <class name="com.vtiger.campaignsTest.CreateCampaignTest"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
